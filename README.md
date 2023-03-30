@@ -6,4 +6,4 @@
 - part_2_mars_weather.ipynb
 - mars_weather_data.csv
 
-* Files located inside Starter Code folder
+***Files located inside Starter Code folder
